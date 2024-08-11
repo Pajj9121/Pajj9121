@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prajwal Hallur</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0zflh07pmldrv_8hi-0Lr7&ust=1723471618168000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCND796OO7YcDFQAAAAAdAAAAABAE"
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0zflh07pmldrv_8hi-0Lr7&ust=1723471618168000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCND796OO7YcDFQAAAAAdAAAAABAE">
 
 - 🌱 I’m currently learning **Network Security & Cyber Security**
 
